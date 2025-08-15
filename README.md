@@ -7,12 +7,11 @@ Matricula: 898669
 
 ## Tela de inspeção com navegador
 
-![Imagem da Inspeção com navegador](Docs.png)
+![Tela de inspeção](Docs.png)
 
 ## Tela de projeto no Replit
 
-![Imagem de projeto no Replit](Replit-1.png)
-
+![Tela de projeto no Replit](Replit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
